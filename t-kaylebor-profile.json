@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T09:50:37Z",
+  "IdClaims": [
+    {
+      "Claim": "t:kaylebor"
+    },
+    {
+      "Claim": "gh:kaylebor"
+    },
+    {
+      "Claim": "mdon:@kaylebor@mastodon.social"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "dc0f269b9852e639c64b9b19",
+    "Timestamp": "2023-04-06T09:53:09Z",
+    "Signature": "686463b4d87539bdd4ee43c9ffc5b9137835e9b2fa5f94a2d31bb7ea1e98e0d0b21e0b4d072638278b13932ed254b0c860c3f66f302dcb9ddfbd5d917701f695f9e11a535384561a5be8bf28162e3f4abc28048e40b84d1923ee2d16881dff0115029c0f5b68cb0a76353da4efd4801804686388d3fee7909c73c3866cecb9be2bc4f6f30acb524384619a48ee37722e131922950d8c3b42600144a73f7d90a3ab0e45bf07f2fa30512d4e480fa6126d3a5b495613ceaf0d39e087368416a70c3ba495ce754fd95393a625c78214dbcb276cd865eaf78056f1220b25a28dd26158ff7286f704d78be3fe0159f2e2c58f5c0d30db59910666f1837c86e81cae27"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "2682c5db205aa778c9798e1fc433cdae6c7dcca884b3e6fea1fd277cb6925a12",
+  "ContentToHash": "v1|gh:kaylebor,mdon:@kaylebor@mastodon.social,t:kaylebor|2023-04-06T09:50:37Z"
+}
